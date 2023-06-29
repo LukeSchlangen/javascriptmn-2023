@@ -11,12 +11,39 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js</a> on Docker!
+          Welcome to <a href="https://javascriptmn.com">JavaScriptMN</a>
         </h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
+        </p>
+
+        <p>
+          Thanks Everyone for Everything!  I have to head out.  Great job and thanks agai
+        </p>
+
+        <p>
+          Like fair Puck, thou doth manipulate the DOM,
+          Rendering views, like Midsummer's dream, a calm.
+          With templates and layouts, thou painteth the screen,
+          HTML and CSS, a harmonious scene.
+
+          Thy ecosystem vast, with modules galore,
+          From databases to authentication, thou dost explore.
+          Sessions and cookies, secure and tight,
+          User authentication, like stars in the night.
+        </p>
+        <p>
+          O Express.js, thou art a wondrous code,
+          A framework of web, in servers it strode.
+          Thy syntax elegant, like the Bard's own verse,
+          In JavaScript's realm, thou art immersed.
+
+          With middleware, thou handleth each request,
+          Routing and handling, thou art truly blessed.
+          Thy functions and methods, a symphony of sorts,
+          Creating endpoints with magical retorts.
         </p>
 
         <div className={styles.grid}>
